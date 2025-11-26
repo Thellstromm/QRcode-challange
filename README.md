@@ -58,12 +58,11 @@ The design is fully responsive and uses Flexbox for **centered alignment**. Shad
 Navigate into the project folder:
 
 bash
-Kopiera kod
 cd your-repo
 Open index.html in your browser to view the project.
 
 
-Author
+###Author
 Ludwig Thellström
 
 Challenge by Frontend Mentor.
