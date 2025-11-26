@@ -1,0 +1,47 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 20px;
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  display: flex; /* uses flexbox for layout */
+  justify-content: center; /* horizontally centered */
+  align-items: center;     /* vertically centered */
+  min-height: 100vh;       /* full height of the viewport */
+  background-color: hsl(212, 45%, 89%);
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  flex-direction: column; /* stacks content vertically */
+}
+
+/* The box */
+.box {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 25px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  text-align: center; /* centers text and image */
+  max-width: 400px;  /* max width of the box */
+  margin: auto;      /* centers the box horizontally */
+}
+
+/* The image */
+.box img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+/* The heading */
+.box h1 {
+  margin: 0 0 10px;
+}
+
+/* The paragraph     */
+.box p {
+  color: #555;
+  line-height: 1.5;
+}
