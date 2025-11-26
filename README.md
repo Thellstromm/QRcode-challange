@@ -62,7 +62,7 @@ cd your-repo
 Open index.html in your browser to view the project.
 
 
-###Author
+### Author
 Ludwig Thellström
 
 Challenge by Frontend Mentor.
